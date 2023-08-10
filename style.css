@@ -1,0 +1,43 @@
+#banner {
+    width: 100%;
+}
+
+.principal {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#vasco {
+    font-size: 20px;
+}
+
+em strong {
+    color: blueviolet;
+}
+
+.itens {
+    font-style: italic;
+    font-size: 17px;
+}
+
+.beneficios {
+    background-color: white;
+}
+
+h2 {
+    text-align: center;
+}
+
+#imagem2 {
+    width: 100%;
+    height: 100%;
+}
+    
+
