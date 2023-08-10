@@ -1,12 +1,21 @@
+body {
+    background-color: darkslategrey;
+}
+
+.cabeçalho {
+    padding-left: 35px;
+}
+
 #banner {
     width: 100%;
 }
 
 .principal {
     background-color: lightblue;
+    padding: 30px;
 }
 
-h1 {
+.titulo-normal {
     text-align: center;
 }
 
@@ -24,19 +33,25 @@ em strong {
 
 .itens {
     font-style: italic;
-    font-size: 17px;
+    font-size: 30px;
 }
 
 .beneficios {
-    background-color: white;
+    background-color: darkcyan;
+    padding: 20px;
+    
+
 }
 
-h2 {
-    text-align: center;
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 }
 
-#imagem2 {
-    width: 100%;
+.imagembeneficios {
+    width: 50%;
     height: 100%;
 }
     
