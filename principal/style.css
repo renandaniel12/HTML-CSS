@@ -1,0 +1,58 @@
+body {
+    background-color: darkslategrey
+}
+
+.cabeçalho {
+    padding-left: 35px;
+}
+
+#banner {
+    width: 100%;
+}
+
+.principal {
+    background-color: lightblue;
+    padding: 30px;
+}
+
+.titulo-normal {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#vasco {
+    font-size: 20px;
+}
+
+em strong {
+    color: blueviolet;
+}
+
+.itens {
+    font-style: italic;
+    font-size: 30px;
+}
+
+.beneficios {
+    background-color: darkcyan;
+    padding: 20px;
+    
+
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagembeneficios {
+    width: 50%;
+    height: 100%;
+}
+    
+
