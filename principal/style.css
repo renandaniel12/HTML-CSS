@@ -6,6 +6,25 @@ body {
     padding-left: 35px;
 }
 
+header {
+    background: #BBBBBB;
+}
+
+nav li {
+    position: relative;
+    font-display: inline;   
+    display: inline;
+
+}
+
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
 #banner {
     width: 100%;
 }
